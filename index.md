@@ -1,8 +1,6 @@
-  
 <html>
- <head>
- </head>
- <body>
-   <h1>MoCA Network Setup under construction! Please check back soon :) <h1>
- </body>
+<header>
+  <title>MoCA Network Setup</title>
+  </header>
+<body> MoCA Network Setup is under construction. Please check back soon :)</body>
 </html>
